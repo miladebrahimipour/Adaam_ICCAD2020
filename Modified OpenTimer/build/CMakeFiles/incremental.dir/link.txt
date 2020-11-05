@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g   CMakeFiles/incremental.dir/example/incremental/incremental.cpp.o  -o ../example/incremental/incremental  ../lib/libOpenTimer.a -lstdc++fs -lpthread 

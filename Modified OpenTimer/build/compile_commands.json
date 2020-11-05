@@ -1,0 +1,257 @@
+[
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/sizer.dir/example/sizer/sizer.cpp.o -c /home/milad/OpenTimer/example/sizer/sizer.cpp",
+  "file": "/home/milad/OpenTimer/example/sizer/sizer.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/optimizer.dir/example/optimizer/optimizer.cpp.o -c /home/milad/OpenTimer/example/optimizer/optimizer.cpp",
+  "file": "/home/milad/OpenTimer/example/optimizer/optimizer.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/path.dir/unittest/path.cpp.o -c /home/milad/OpenTimer/unittest/path.cpp",
+  "file": "/home/milad/OpenTimer/unittest/path.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/ot-utility.dir/main/utility/utility.cpp.o -c /home/milad/OpenTimer/main/utility/utility.cpp",
+  "file": "/home/milad/OpenTimer/main/utility/utility.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/unit.dir/example/unit/unit.cpp.o -c /home/milad/OpenTimer/example/unit/unit.cpp",
+  "file": "/home/milad/OpenTimer/example/unit/unit.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/ot-tau15.dir/main/tau15/tau15.cpp.o -c /home/milad/OpenTimer/main/tau15/tau15.cpp",
+  "file": "/home/milad/OpenTimer/main/tau15/tau15.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/incremental.dir/example/incremental/incremental.cpp.o -c /home/milad/OpenTimer/example/incremental/incremental.cpp",
+  "file": "/home/milad/OpenTimer/example/incremental/incremental.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/unit/unit.cpp.o -c /home/milad/OpenTimer/ot/unit/unit.cpp",
+  "file": "/home/milad/OpenTimer/ot/unit/unit.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/shell/misc.cpp.o -c /home/milad/OpenTimer/ot/shell/misc.cpp",
+  "file": "/home/milad/OpenTimer/ot/shell/misc.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/shell/obselete.cpp.o -c /home/milad/OpenTimer/ot/shell/obselete.cpp",
+  "file": "/home/milad/OpenTimer/ot/shell/obselete.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/shell/builder.cpp.o -c /home/milad/OpenTimer/ot/shell/builder.cpp",
+  "file": "/home/milad/OpenTimer/ot/shell/builder.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/shell/action.cpp.o -c /home/milad/OpenTimer/ot/shell/action.cpp",
+  "file": "/home/milad/OpenTimer/ot/shell/action.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/shell/shell.cpp.o -c /home/milad/OpenTimer/ot/shell/shell.cpp",
+  "file": "/home/milad/OpenTimer/ot/shell/shell.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/shell/dump.cpp.o -c /home/milad/OpenTimer/ot/shell/dump.cpp",
+  "file": "/home/milad/OpenTimer/ot/shell/dump.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/scc.cpp.o -c /home/milad/OpenTimer/ot/timer/scc.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/scc.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/arc.cpp.o -c /home/milad/OpenTimer/ot/timer/arc.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/arc.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/celllib.cpp.o -c /home/milad/OpenTimer/ot/timer/celllib.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/celllib.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/test.cpp.o -c /home/milad/OpenTimer/ot/timer/test.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/test.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/timer.cpp.o -c /home/milad/OpenTimer/ot/timer/timer.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/timer.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/clock.cpp.o -c /home/milad/OpenTimer/ot/timer/clock.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/clock.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/sdc.cpp.o -c /home/milad/OpenTimer/ot/timer/sdc.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/sdc.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/endpoint.cpp.o -c /home/milad/OpenTimer/ot/timer/endpoint.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/endpoint.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/net.cpp.o -c /home/milad/OpenTimer/ot/timer/net.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/net.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/sfxt.cpp.o -c /home/milad/OpenTimer/ot/timer/sfxt.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/sfxt.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/pfxt.cpp.o -c /home/milad/OpenTimer/ot/timer/pfxt.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/pfxt.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/unit.cpp.o -c /home/milad/OpenTimer/ot/timer/unit.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/unit.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/path.cpp.o -c /home/milad/OpenTimer/ot/timer/path.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/path.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/spef.cpp.o -c /home/milad/OpenTimer/ot/timer/spef.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/spef.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/cppr.cpp.o -c /home/milad/OpenTimer/ot/timer/cppr.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/cppr.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/verilog.cpp.o -c /home/milad/OpenTimer/ot/timer/verilog.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/verilog.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/gate.cpp.o -c /home/milad/OpenTimer/ot/timer/gate.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/gate.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/dump.cpp.o -c /home/milad/OpenTimer/ot/timer/dump.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/dump.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/timer/pin.cpp.o -c /home/milad/OpenTimer/ot/timer/pin.cpp",
+  "file": "/home/milad/OpenTimer/ot/timer/pin.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/liberty/celllib.cpp.o -c /home/milad/OpenTimer/ot/liberty/celllib.cpp",
+  "file": "/home/milad/OpenTimer/ot/liberty/celllib.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/liberty/cell.cpp.o -c /home/milad/OpenTimer/ot/liberty/cell.cpp",
+  "file": "/home/milad/OpenTimer/ot/liberty/cell.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/liberty/cellpin.cpp.o -c /home/milad/OpenTimer/ot/liberty/cellpin.cpp",
+  "file": "/home/milad/OpenTimer/ot/liberty/cellpin.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/liberty/lut.cpp.o -c /home/milad/OpenTimer/ot/liberty/lut.cpp",
+  "file": "/home/milad/OpenTimer/ot/liberty/lut.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/liberty/timing.cpp.o -c /home/milad/OpenTimer/ot/liberty/timing.cpp",
+  "file": "/home/milad/OpenTimer/ot/liberty/timing.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/liberty/power.cpp.o -c /home/milad/OpenTimer/ot/liberty/power.cpp",
+  "file": "/home/milad/OpenTimer/ot/liberty/power.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/verilog/verilog.cpp.o -c /home/milad/OpenTimer/ot/verilog/verilog.cpp",
+  "file": "/home/milad/OpenTimer/ot/verilog/verilog.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/sdc/tokenize.cpp.o -c /home/milad/OpenTimer/ot/sdc/tokenize.cpp",
+  "file": "/home/milad/OpenTimer/ot/sdc/tokenize.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/sdc/object.cpp.o -c /home/milad/OpenTimer/ot/sdc/object.cpp",
+  "file": "/home/milad/OpenTimer/ot/sdc/object.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/sdc/sdc.cpp.o -c /home/milad/OpenTimer/ot/sdc/sdc.cpp",
+  "file": "/home/milad/OpenTimer/ot/sdc/sdc.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/tau/tau15.cpp.o -c /home/milad/OpenTimer/ot/tau/tau15.cpp",
+  "file": "/home/milad/OpenTimer/ot/tau/tau15.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/utility/os.cpp.o -c /home/milad/OpenTimer/ot/utility/os.cpp",
+  "file": "/home/milad/OpenTimer/ot/utility/os.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/utility/tokenizer.cpp.o -c /home/milad/OpenTimer/ot/utility/tokenizer.cpp",
+  "file": "/home/milad/OpenTimer/ot/utility/tokenizer.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/OpenTimer.dir/ot/spef/spef.cpp.o -c /home/milad/OpenTimer/ot/spef/spef.cpp",
+  "file": "/home/milad/OpenTimer/ot/spef/spef.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/ot-shell.dir/main/shell/shell.cpp.o -c /home/milad/OpenTimer/main/shell/shell.cpp",
+  "file": "/home/milad/OpenTimer/main/shell/shell.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/simple.dir/example/simple/simple.cpp.o -c /home/milad/OpenTimer/example/simple/simple.cpp",
+  "file": "/home/milad/OpenTimer/example/simple/simple.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/utility.dir/unittest/utility.cpp.o -c /home/milad/OpenTimer/unittest/utility.cpp",
+  "file": "/home/milad/OpenTimer/unittest/utility.cpp"
+},
+{
+  "directory": "/home/milad/OpenTimer/build",
+  "command": "/usr/bin/g++-7   -I/home/milad/OpenTimer  -g   -std=c++1z -o CMakeFiles/ot-tau18.dir/main/tau18/tau18.cpp.o -c /home/milad/OpenTimer/main/tau18/tau18.cpp",
+  "file": "/home/milad/OpenTimer/main/tau18/tau18.cpp"
+}
+]

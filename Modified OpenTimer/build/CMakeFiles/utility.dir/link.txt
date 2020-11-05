@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g   CMakeFiles/utility.dir/unittest/utility.cpp.o  -o ../unittest/utility  ../lib/libOpenTimer.a -lstdc++fs -lpthread 

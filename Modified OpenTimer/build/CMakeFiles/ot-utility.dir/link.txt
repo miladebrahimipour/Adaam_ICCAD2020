@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g   CMakeFiles/ot-utility.dir/main/utility/utility.cpp.o  -o ../bin/ot-utility  ../lib/libOpenTimer.a -lstdc++fs -lpthread 
